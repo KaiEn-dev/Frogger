@@ -1,3 +1,3 @@
 # Frogger
-![frogger arcade minigame](logo.png)
+![frogger arcade minigame](logo.jpg)
 ## About The Project
