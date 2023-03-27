@@ -1,7 +1,7 @@
 # Frogger
 ![frogger arcade minigame](logo.PNG)
 ### About The Project
-Project built during the 1st semester of year 2. <br/>
+Individual project built during the 1st semester of year 2. <br/>
 This project is a replica of the popular [frogger](https://en.wikipedia.org/wiki/Frogger) arcade action game 🐸
 ### Built with
 - Java
