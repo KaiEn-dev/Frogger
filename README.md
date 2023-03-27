@@ -1,5 +1,3 @@
 # Frogger
 
-### Language: JAVA
-
-### Description
+## About The Project
